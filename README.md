@@ -91,10 +91,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iflal-Ahamed&show_icons=true&theme=radical&count_private=true" alt="Iflal's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iflal-Ahamed&layout=compact&theme=radical" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iflal-Ahamed&theme=radical" alt="Iflal's streak stats" />
 </p>
