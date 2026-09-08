@@ -177,11 +177,6 @@ A Windows desktop app automating inventory, sales, and reporting for day-to-day 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4"/>
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4"/>
 </div>
 
